@@ -1,7 +1,6 @@
 <html>
 
 <!-- echo "<script>window.location='https://admissions.sriramachandra.edu.in/';</script>"; -->
-
 <?php 
 
 $logindiv = 0;
