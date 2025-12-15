@@ -37,7 +37,6 @@ if (isset($_GET['login']) && $_GET['login'] == 1) {
    <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.5.8/slick-theme.min.css'>
 
  
-<!-- In the <head> -->
 <link
   rel="stylesheet"
   href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css"/>
